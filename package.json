@@ -1,0 +1,16 @@
+{
+  "name": "bot-correios",
+  "version": "1.0.0",
+  "description": "Desafio de automação de consulta de CEP pelo site do Correios.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node ./src/index.js"
+  },
+  "keywords": [
+    "correios",
+    "cep",
+    "bot"
+  ],
+  "author": "Thiago Kalleb Portela Barroso",
+  "license": "Apache-2.0"
+}
