@@ -9,7 +9,7 @@ const puppeteer = require('puppeteer');
         function sleep(ms) {
             return new Promise(resolve => setTimeout(resolve, ms));
         }
-        document.getElementById('endereco').value = '000000000'
+        document.getElementById('endereco').value = '60811341'
         await sleep(300) //aguardar 300ms
         document.getElementById('btn_pesquisar').click()
         await sleep(1000) //aguardar 1000ms
