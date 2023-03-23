@@ -16,3 +16,7 @@
 
 - [Node.js](https://nodejs.dev/)
 - [Puppeteer](https://pptr.dev/)
+
+## Observações
+
+Desafio proposto por uma empresa de desenvolvimento de software para entrevista de candidato (nesse caso, eu).
